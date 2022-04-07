@@ -1,0 +1,2 @@
+## A Bot that send users updates on liquidity removal on tokens available on the algorand network
+A python bot that fetches liquidity data from the algorand network and checks for whether tokens created are valid or scam tokens based on the addition and removal of liquidity.
