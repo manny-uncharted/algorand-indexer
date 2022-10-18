@@ -11,7 +11,7 @@ from algosdk.v2client import indexer
 # The algorand explorer indexer address and the api key
 algod_address = "https://mainnet-algorand.api.purestake.io/idx2"
 headers = {
-"X-API-Key": "AH6Q1FUOUq7evV549HE6aZSQkdBHH7d7w2UVqqia",
+"X-API-Key": "<your-api-key>",
 }
 
 
